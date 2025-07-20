@@ -1,5 +1,8 @@
-👋 Hello all! I'm Gayatri,Currently pursuing studies in this field, I'm deeply engaged in understanding the intricacies of machine learning,. From developing innovative algorithms to leveraging data-driven insights, I thrive on the challenge of applying AI principles to solve complex problems. I'm actively learning and experimenting with cutting-edge technologies and methodologies. Whether it's diving into new research papers or coding up exciting projects, I'm always eager to expand my knowledge and contribute to the ever-evolving field of AI.  🌟🤖
+👋 Hello Everyone! I'm Gayatri
+I'm currently learning Python from basic to advanced through the "Skill Up" program by Greeks for Greeks.
+This program is helping me strengthen my programming foundations and gain hands-on experience with real-world applications.
+🌱 What I’m Learning
 
+I'm actively deepening my knowledge by:
 
-
-
+Exploring Python programming — from basics to advanced concepts
