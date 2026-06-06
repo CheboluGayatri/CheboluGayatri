@@ -11,7 +11,6 @@ Passionate about Artificial Intelligence, Machine Learning, and Natural Language
 * 🎓 B.Tech in Computer Science & Artificial Intelligence
 * 🤖 Passionate about AI, Machine Learning, NLP, and LLM Applications
 * 🐍 Strong foundation in Python and Machine Learning
-* 🌱 Currently exploring Agentic AI, Generative AI, and Advanced NLP
 * 💡 Love building AI-powered applications that solve real-world problems
 * 📚 Lifelong learner committed to continuous growth and innovation
 
