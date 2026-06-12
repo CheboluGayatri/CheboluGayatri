@@ -7,10 +7,6 @@
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-CSE%20%26%20Artificial%20Intelligence-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-7.78%2F10-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20Engineer-Remote%20Ready-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Location-India-A78BFA?style=for-the-badge)
-
 <br/>
 
 <a href="mailto:gayathrichebolu6@gmail.com">
@@ -28,12 +24,6 @@
 <a href="mailto:gayathrichebolu6@gmail.com">
 <img src="https://img.shields.io/badge/Contact%20Me-7C3AED?style=for-the-badge"/>
 </a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=CheboluGayatri&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/CheboluGayatri?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/CheboluGayatri?style=for-the-badge&color=7C3AED)
 
 </div>
 
