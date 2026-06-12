@@ -57,7 +57,7 @@ My focus is on building scalable AI solutions that solve practical business chal
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
 ## Frontend
@@ -295,29 +295,6 @@ Two-Month Internship Program
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
 
 # GitHub Analytics
 
@@ -337,16 +314,6 @@ Two-Month Internship Program
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -357,15 +324,6 @@ Two-Month Internship Program
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
@@ -418,11 +376,6 @@ open_to:
 <div align="center">
 
 ### Building intelligent software that transforms ideas into real-world impact.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
-
 
 </div>
 
