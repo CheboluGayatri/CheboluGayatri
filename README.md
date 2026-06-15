@@ -379,5 +379,69 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>   
+
+
+
+
+
+## 🎓 Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Microsoft • SAP • AICTE • Edunet
+
+![](https://img.shields.io/badge/TechSaksham-Applied%20Artificial%20Intelligence-7C3AED?style=for-the-badge)
+
+Applied Artificial Intelligence
+
+</td>
+
+<td align="center" width="50%">
+
+### IIIT Hyderabad
+
+![](https://img.shields.io/badge/IIIT%20Hyderabad-Foundations%20of%20Modern%20Machine%20Learning-A78BFA?style=for-the-badge)
+
+Grade A Certification
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Infosys Springboard
+
+![](https://img.shields.io/badge/Infosys-AI%20Explainer%20%26%20Code%20Generator-0A66C2?style=for-the-badge)
+
+Generative AI Internship
+
+</td>
+
+<td align="center">
+
+### IBM SkillsBuild
+
+![](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-1261FE?style=for-the-badge)
+
+Professional Development Program
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 3Skill
+
+![](https://img.shields.io/badge/3Skill-AI%20%26%20Machine%20Learning%20Internship-6D28D9?style=for-the-badge)
+
+Two-Month Internship Program
+
+</td>
+</tr>
+</table>
 
