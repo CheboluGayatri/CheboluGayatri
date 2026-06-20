@@ -419,15 +419,11 @@ open_to:
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/💜_Learning_•_Building_•_Growing-8B5CF6?style=for-the-badge"/>
+![Learning](https://img.shields.io/badge/💜_Learning_•_Building_•_Growing-8B5CF6?style=for-the-badge)
 
-<br><br>
-
-<i>Transforming ideas into intelligent solutions through continuous learning, innovation, and real-world project development.</i>
+*Transforming ideas into intelligent solutions through continuous learning, innovation, and real-world project development.*
 
 </div>
 
