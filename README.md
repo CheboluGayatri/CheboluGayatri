@@ -421,10 +421,10 @@ open_to:
 
 ---
 
-### <div align="center">
+ <div align="center">
+💜 Learning • Building • Growing
 
-💡 **Always Learning • Always Building • Always Improving**
-
+Transforming ideas into intelligent solutions through continuous learning, innovation, and real-world project development.
 </div>
 
 
