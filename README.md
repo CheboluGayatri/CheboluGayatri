@@ -421,12 +421,19 @@ open_to:
 ---
 <div align="center">
 
-### Building the Future with Artificial Intelligence
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
+
+### 💜 Engineering Intelligent Systems
 
 <sub>
-AI Engineer focused on Machine Learning, Generative AI, LLM Engineering, and Scalable Software Systems.
+Machine Learning • Generative AI • LLM Applications • Intelligent Automation
 </sub>
 
-</div>
+<br/>
 
+<i>"Building technology that learns, adapts, and creates meaningful impact."</i>
+
+<br/><br/>
+
+</div>
 
