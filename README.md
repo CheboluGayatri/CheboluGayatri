@@ -249,47 +249,95 @@ Worked on machine learning models, data analytics, and deployment workflows.
 
 ---
 
-# Certifications
+## 💼 Internships
 
 <div align="center">
 
-### Microsoft • SAP • AICTE • Edunet Foundation
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/3skill_AIML_Internship.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/3skill_AIML_Internship.jpeg" width="150"/>
+<br><b>AI & ML Internship</b>
+<br>3Skill
+</a>
+</td>
 
-![](https://img.shields.io/badge/TechSaksham-Applied%20Artificial%20Intelligence-7C3AED?style=for-the-badge)
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Infosys-Ai-Internship.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Infosys-Ai-Internship.jpeg" width="150"/>
+<br><b>Generative AI Internship</b>
+<br>Infosys Springboard
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Apex_Certificate.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Apex_Certificate.jpg" width="150"/>
+<br><b>Web Development Internship</b>
+<br>Apex Planet
+</a>
+</td>
+</tr>
+</table>
 
-Applied Artificial Intelligence: Practical Implementations
+</div>
 
 ---
 
-### IIIT Hyderabad
+## 🎓 Certifications
 
-![](https://img.shields.io/badge/IIIT%20Hyderabad-Foundations%20of%20Modern%20Machine%20Learning-A78BFA?style=for-the-badge)
+<div align="center">
 
-Grade A Certification
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/IIIT_FMML_Certificate.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/IIIT_FMML_Certificate.jpeg" width="150"/>
+<br><b>Foundations of Modern Machine Learning</b>
+<br>IIIT Hyderabad
+</a>
+</td>
 
----
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Completion%20AI_Certificate%20_SkillsBuild.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Completion AI_Certificate _ SkillsBuild.jpg" width="150"/>
+<br><b>AI Certificate</b>
+<br>IBM SkillsBuild
+</a>
+</td>
 
-### Infosys Springboard
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Tecksaksham_Applied_AI.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Tecksaksham_Applied_AI.jpeg" width="150"/>
+<br><b>Applied Artificial Intelligence</b>
+<br>TechSaksham
+</a>
+</td>
+</tr>
 
-![](https://img.shields.io/badge/Infosys-AI%20Explainer%20%26%20Code%20Generator-0A66C2?style=for-the-badge)
+<tr>
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Employabilityskills-Jobready.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Employabilityskills-Jobready.jpg" width="150"/>
+<br><b>Employability Skills</b>
+<br>JobReady
+</a>
+</td>
 
-Generative AI Internship
+<td align="center">
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/gen_ai.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/gen_ai.jpg" width="150"/>
+<br><b>Generative AI</b>
+<br>Certification
+</a>
+</td>
 
----
-
-### IBM SkillsBuild
-
-![](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-1261FE?style=for-the-badge)
-
-Professional Development Program
-
----
-
-### 3Skill
-
-![](https://img.shields.io/badge/3Skill-AI%20%26%20Machine%20Learning%20Internship-6D28D9?style=for-the-badge)
-
-Two-Month Internship Program
+<td align="center">
+✨
+<br><b>Continuous Learning</b>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -375,100 +423,9 @@ open_to:
 
 <div align="center">
 
-### Building intelligent software that transforms ideas into real-world impact.
+### 💡 **Always Learning • Always Building • Always Improving**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>   
-## 💼 Internships
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/3skill_AIML_Internship.jpeg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/3skill_AIML_Internship.jpeg" width="150"/>
-<br><b>AI & ML Internship</b>
-<br>3Skill
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Infosys-Ai-Internship.jpeg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Infosys-Ai-Internship.jpeg" width="150"/>
-<br><b>Generative AI Internship</b>
-<br>Infosys Springboard
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Apex_Certificate.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Apex_Certificate.jpg" width="150"/>
-<br><b>Apex Certificate</b>
-<br>Apex Planet
-</a>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
-
-## 🎓 Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/IIIT_FMML_Certificate.jpeg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/IIIT_FMML_Certificate.jpeg" width="150"/>
-<br><b>Foundations of Modern Machine Learning</b>
-<br>IIIT Hyderabad
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Completion%20AI_Certificate%20_SkillsBuild.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Completion AI_Certificate _ SkillsBuild.jpg" width="150"/>
-<br><b>AI Certificate</b>
-<br>IBM SkillsBuild
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Tecksaksham_Applied_AI.jpeg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Tecksaksham_Applied_AI.jpeg" width="150"/>
-<br><b>Applied Artificial Intelligence</b>
-<br>TechSaksham
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Employabilityskills-Jobready.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Employabilityskills-Jobready.jpg" width="150"/>
-<br><b>Employability Skills</b>
-<br>JobReady
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/gen_ai.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/gen_ai.jpg" width="150"/>
-<br><b>Generative AI</b>
-<br>Certification
-</a>
-</td>
-
-<td align="center">
-✨
-<br><b>Continuous Learning</b>
-</td>
-</tr>
-</table>
-
-</div>
-
