@@ -419,13 +419,12 @@ open_to:
 </div> 
 
 ---
-
 <div align="center">
 
-### 💜 Learning • Building • Growing
+### Building the Future with Artificial Intelligence
 
 <sub>
-Transforming ideas into intelligent solutions through Artificial Intelligence, Machine Learning, and Generative AI.
+AI Engineer focused on Machine Learning, Generative AI, LLM Engineering, and Scalable Software Systems.
 </sub>
 
 </div>
