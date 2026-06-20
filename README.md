@@ -382,51 +382,29 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>   
 
 
-
-
 ## 🎓 Certifications & Internships
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
-### Microsoft • SAP • AICTE • Edunet Foundation
+### Applied Artificial Intelligence
+*TechSaksham • Microsoft • SAP • AICTE • Edunet Foundation*
 
-![](https://img.shields.io/badge/TechSaksham-Applied%20Artificial%20Intelligence-7C3AED?style=for-the-badge)
-
-**Applied Artificial Intelligence Program**
+<a href="./certificates/Tecksaksham_Applied_AI.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Tecksaksham_Applied_AI.jpeg" width="100%">
+</a>
 
 </td>
 
 <td align="center" width="50%">
 
-### IIIT Hyderabad
+### Foundations of Modern Machine Learning
+*IIIT Hyderabad*
 
-![](https://img.shields.io/badge/IIIT%20Hyderabad-Foundations%20of%20Modern%20Machine%20Learning-A78BFA?style=for-the-badge)
-
-**Foundations of Modern Machine Learning**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### Infosys Springboard
-
-![](https://img.shields.io/badge/Infosys-Generative%20AI%20Internship-0A66C2?style=for-the-badge)
-
-**Generative AI Internship**
-
-</td>
-
-<td align="center">
-
-### IBM SkillsBuild
-
-![](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Essentials-1261FE?style=for-the-badge)
-
-**Career Essentials / Professional Development Program**
+<a href="./certificates/IIIT_FMML_Certificate.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/IIIT_FMML_Certificate.jpeg" width="100%">
+</a>
 
 </td>
 </tr>
@@ -434,21 +412,23 @@ open_to:
 <tr>
 <td align="center">
 
-### Apex Planet
+### Generative AI Internship
+*Infosys Springboard*
 
-![](https://img.shields.io/badge/Apex%20Planet-Training%20Certificate-2563EB?style=for-the-badge)
-
-**Technology Training & Skill Development Program**
+<a href="./certificates/Infosys-Ai-Internship.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Infosys-Ai-Internship.jpeg" width="100%">
+</a>
 
 </td>
 
 <td align="center">
 
-### JobReady Employability Skills
+### IBM SkillsBuild Certificate
+*Professional Development Program*
 
-![](https://img.shields.io/badge/JobReady-Employability%20Skills-059669?style=for-the-badge)
-
-**Employability Skills Certification**
+<a href="./certificates/Completion_AI_Certificate_SkillsBuild.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Completion_AI_Certificate_SkillsBuild.jpg" width="100%">
+</a>
 
 </td>
 </tr>
@@ -456,21 +436,45 @@ open_to:
 <tr>
 <td align="center">
 
-### 3Skill
+### Apex Planet Training Certificate
 
-![](https://img.shields.io/badge/3Skill-AI%20%26%20Machine%20Learning%20Internship-6D28D9?style=for-the-badge)
-
-**Artificial Intelligence & Machine Learning Internship**
+<a href="./certificates/Apex_Certificate.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Apex_Certificate.jpg" width="100%">
+</a>
 
 </td>
 
 <td align="center">
 
-### Generative AI
+### Employability Skills Certification
+*JobReady*
 
-![](https://img.shields.io/badge/Generative%20AI-Certification-9333EA?style=for-the-badge)
+<a href="./certificates/Employabilityskills-Jobready.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Employabilityskills-Jobready.jpg" width="100%">
+</a>
 
-**Generative AI Certification**
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### AI & Machine Learning Internship
+*3Skill*
+
+<a href="./certificates/3skill_AIML_Internship.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/3skill_AIML_Internship.jpeg" width="100%">
+</a>
+
+</td>
+
+<td align="center">
+
+### Generative AI Certification
+
+<a href="./certificates/gen_ai.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/gen_ai.jpg" width="100%">
+</a>
 
 </td>
 </tr>
