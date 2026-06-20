@@ -432,7 +432,7 @@ open_to:
 
 <td align="center">
 <a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Completion%20AI_Certificate%20_SkillsBuild.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Completion%20AI_Certificate%20_SkillsBuild.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Completion AI_Certificate _ SkillsBuild.jpg" width="150"/>
 <br><b>AI Certificate</b>
 <br>IBM SkillsBuild
 </a>
