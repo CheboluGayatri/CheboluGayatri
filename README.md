@@ -416,14 +416,17 @@ open_to:
 <a href="https://github.com/CheboluGayatri">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div> 
 
-</div>
+---
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/💜_Learning_•_Building_•_Growing-8B5CF6?style=for-the-badge)
+### 💜 Learning • Building • Growing
 
-*Transforming ideas into intelligent solutions through continuous learning, innovation, and real-world project development.*
+<sub>
+Transforming ideas into intelligent solutions through Artificial Intelligence, Machine Learning, and Generative AI.
+</sub>
 
 </div>
 
