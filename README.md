@@ -419,13 +419,10 @@ open_to:
 </div> 
 
 ---
-<div align="center">
 ### 💜 🎓 Recent Graduate | Passionate about AI, Machine Learning, and Generative AI
+<div align="center">
 <br>
-
-<i>"continuously learning, building projects, and exploring emerging technologies to create intelligent solutions.
-"</i>
-
+<i>"Passionate about learning, building, and applying AI, Machine Learning, and Generative AI to solve real-world problems."</i>
 <br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
 
