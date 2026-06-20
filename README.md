@@ -420,8 +420,6 @@ open_to:
 
 ---
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
 ### 💜 🎓 Recent Graduate | Passionate about AI, Machine Learning, and Generative AI
 <br>
 
@@ -429,6 +427,7 @@ open_to:
 "</i>
 
 <br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
 
 </div>
 
