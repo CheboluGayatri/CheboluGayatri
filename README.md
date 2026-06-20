@@ -401,12 +401,11 @@ open_to:
 <br>Infosys Springboard
 </a>
 </td>
-
 <td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Tecksaksham_Applied_AI.jpeg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Tecksaksham_Applied_AI.jpeg" width="150"/>
-<br><b>Applied Artificial Intelligence</b>
-<br>TechSaksham
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Apex_Certificate.jpg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Apex_Certificate.jpg" width="150"/>
+<br><b>Apex Certificate</b>
+<br>Apex Planet
 </a>
 </td>
 </tr>
@@ -439,10 +438,10 @@ open_to:
 </td>
 
 <td align="center">
-<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Apex_Certificate.jpg">
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Apex_Certificate.jpg" width="150"/>
-<br><b>Apex Certificate</b>
-<br>Apex Planet
+<a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Tecksaksham_Applied_AI.jpeg">
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Tecksaksham_Applied_AI.jpeg" width="150"/>
+<br><b>Applied Artificial Intelligence</b>
+<br>TechSaksham
 </a>
 </td>
 </tr>
