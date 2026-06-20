@@ -384,18 +384,17 @@ open_to:
 
 
 
-
-## 🎓 Certifications
+## 🎓 Certifications & Internships
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### Microsoft • SAP • AICTE • Edunet
+### Microsoft • SAP • AICTE • Edunet Foundation
 
 ![](https://img.shields.io/badge/TechSaksham-Applied%20Artificial%20Intelligence-7C3AED?style=for-the-badge)
 
-Applied Artificial Intelligence
+**Applied Artificial Intelligence Program**
 
 </td>
 
@@ -405,7 +404,7 @@ Applied Artificial Intelligence
 
 ![](https://img.shields.io/badge/IIIT%20Hyderabad-Foundations%20of%20Modern%20Machine%20Learning-A78BFA?style=for-the-badge)
 
-Grade A Certification
+**Foundations of Modern Machine Learning**
 
 </td>
 </tr>
@@ -415,9 +414,9 @@ Grade A Certification
 
 ### Infosys Springboard
 
-![](https://img.shields.io/badge/Infosys-AI%20Explainer%20%26%20Code%20Generator-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/Infosys-Generative%20AI%20Internship-0A66C2?style=for-the-badge)
 
-Generative AI Internship
+**Generative AI Internship**
 
 </td>
 
@@ -425,23 +424,54 @@ Generative AI Internship
 
 ### IBM SkillsBuild
 
-![](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-1261FE?style=for-the-badge)
+![](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Essentials-1261FE?style=for-the-badge)
 
-Professional Development Program
+**Career Essentials / Professional Development Program**
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td align="center">
+
+### Apex Planet
+
+![](https://img.shields.io/badge/Apex%20Planet-Training%20Certificate-2563EB?style=for-the-badge)
+
+**Technology Training & Skill Development Program**
+
+</td>
+
+<td align="center">
+
+### JobReady Employability Skills
+
+![](https://img.shields.io/badge/JobReady-Employability%20Skills-059669?style=for-the-badge)
+
+**Employability Skills Certification**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### 3Skill
 
 ![](https://img.shields.io/badge/3Skill-AI%20%26%20Machine%20Learning%20Internship-6D28D9?style=for-the-badge)
 
-Two-Month Internship Program
+**Artificial Intelligence & Machine Learning Internship**
+
+</td>
+
+<td align="center">
+
+### Generative AI
+
+![](https://img.shields.io/badge/Generative%20AI-Certification-9333EA?style=for-the-badge)
+
+**Generative AI Certification**
 
 </td>
 </tr>
 </table>
-
