@@ -422,16 +422,11 @@ open_to:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
+### 💜 🎓 Recent Graduate | Passionate about AI, Machine Learning, and Generative AI
+<br>
 
-### 💜 Engineering Intelligent Systems
-
-<sub>
-Machine Learning • Generative AI • LLM Applications • Intelligent Automation
-</sub>
-
-<br/>
-
-<i>"Building technology that learns, adapts, and creates meaningful impact."</i>
+<i>"continuously learning, building projects, and exploring emerging technologies to create intelligent solutions.
+"</i>
 
 <br/><br/>
 
