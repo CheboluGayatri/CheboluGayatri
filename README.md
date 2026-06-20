@@ -421,11 +421,11 @@ open_to:
 
 ---
 
-<div align="center">
+### <div align="center">
 
-### 💡 **Always Learning • Always Building • Always Improving**
+💡 **Always Learning • Always Building • Always Improving**
 
 </div>
 
 
----
+
