@@ -39,164 +39,103 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 
 ---
-
 # Tech Stack
 
- ## Languages            
- <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-
-## Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-## Backend & Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,mysql"/>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-## AI / ML Ecosystem
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p># Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## Internship Experience
+
+### AI/ML Intern | 3Skill
+
+**Dec 2025 – Feb 2026 | Remote**
+
+* Processed and analyzed structured datasets using Python, NumPy, and Pandas for predictive modeling.
+* Developed a Random Forest classification model and evaluated its performance using standard machine learning metrics.
+* Applied feature selection and model evaluation techniques to improve prediction accuracy.
+* Structured modular and maintainable code for scalable ML workflows.
+* Deployed the model using Streamlit for real-time predictions and testing.
+
+**Skills:** Python, Machine Learning, Pandas, NumPy, Scikit-Learn, Streamlit, Data Analysis
 
 ---
 
-# Featured Projects
+### AI Intern | Infosys Springboard
 
-<details>
-<summary><b>AI Recruitment Ranker</b></summary>
+**Sept 2025 – Nov 2025 | Remote**
 
-### Project Overview
+* Built LLM-based applications using Python and Streamlit for automated code explanation and generation.
+* Designed multi-step prompt engineering workflows to improve output accuracy and consistency.
+* Integrated OCR pipelines with AI systems for automated document processing.
+* Worked on workflow automation and AI-driven problem-solving solutions.
 
-AI-powered candidate ranking platform that evaluates resumes using semantic similarity, experience analysis, skill matching, and machine learning techniques.
-
-| Metric      | Details                                    |
-| ----------- | ------------------------------------------ |
-| Stack       | Python, NLP, Sentence Transformers, Pandas |
-| Scale       | Automated Candidate Ranking                |
-| Performance | Intelligent Resume Screening               |
-| Security    | Anonymized Candidate Profiles              |
-| Impact      | Faster Hiring Decisions                    |
-
-### Highlights
-
-* Semantic candidate ranking
-* Skill matching engine
-* Resume analysis
-* Recruiter dashboard
-* Automated shortlisting
-
-</details>
-
-<details>
-<summary><b>Mental Healthcare Chatbot</b></summary>
-
-### Project Overview
-
-AI-powered mental healthcare assistant developed using a fine-tuned T5 Transformer model based on the PHQ-9 framework.
-
-| Metric      | Details                              |
-| ----------- | ------------------------------------ |
-| Stack       | Python, Hugging Face, NLP, Streamlit |
-| Scale       | Conversational AI                    |
-| Performance | Context-Aware Responses              |
-| Impact      | Mental Health Assistance             |
-
-</details>
-
-<details>
-<summary><b>House Price Prediction System</b></summary>
-
-### Project Overview
-
-Machine learning application for real-time house price prediction using feature engineering and regression models.
-
-| Metric      | Details                         |
-| ----------- | ------------------------------- |
-| Stack       | Python, Scikit-Learn, Streamlit |
-| Scale       | Predictive Analytics            |
-| Performance | RMSE, MAE, R² Evaluation        |
-| Impact      | Real-Time Predictions           |
-
-</details>
-
-<details>
-<summary><b>OCR + AI Document Processing Pipeline</b></summary>
-
-### Project Overview
-
-Automated OCR and AI workflow for extracting and processing information from documents.
-
-| Metric      | Details               |
-| ----------- | --------------------- |
-| Stack       | Python, OCR, NLP      |
-| Scale       | Workflow Automation   |
-| Performance | Automated Extraction  |
-| Impact      | Reduced Manual Effort |
-
-</details>
+**Skills:** Python, Generative AI, LLMs, Prompt Engineering, OCR, NLP, Streamlit
 
 ---
 
-# Experience
-
-## AI Intern | Infosys Springboard
-
-*Sep 2025 – Nov 2025 | Remote*
-
-Worked on Generative AI applications, code explanation systems, OCR workflows, and prompt engineering projects.
-
-### Scope of Work
-
-Built AI-powered applications
-Developed code explanation tools
-Implemented OCR solutions
-Designed prompt engineering workflows
-Created AI automation systems
-
-*Skills*
-
-Python LLMs NLP Prompt Engineering OCR Generative AI
-
----
-
-## AI/ML Intern | 3Skill
-
-*Two-Month Internship*
-
-Worked on machine learning models, data analytics, and deployment workflows.
-
-### Scope of Work
-
-Data preprocessing
-Feature engineering
-Model development
-Streamlit deployment
-Predictive analytics
-
-*Skills*
-
-Python Machine Learning Pandas NumPy Scikit-Learn
-
----
 # Achievements
 
 <div align="center">
@@ -339,32 +278,33 @@ Python Machine Learning Pandas NumPy Scikit-Learn
 
 ---
 
+## Current Focus
 
-# Current Focus
+### Learning
 
-```yaml
-learning:
-  - Agentic AI
-  - Advanced Generative AI
-  - RAG Architectures
-  - Multi-Agent Systems
+* Agentic AI
+* Advanced Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent Systems
 
-building:
-  - AI Assistants
-  - LLM Applications
-  - Intelligent Automation Systems
+### Building
 
-exploring:
-  - MLOps
-  - Cloud AI Services
-  - AI Deployment Pipelines
+* AI Assistants
+* LLM-Powered Applications
+* Intelligent Automation Solutions
 
-open_to:
-  - AI Engineer Roles
-  - ML Engineer Roles
-  - Software Engineer Roles
-  - Open Source Collaborations
-```
+### Exploring
+
+* MLOps
+* Cloud-Based AI Services
+* AI Deployment and Production Pipelines
+
+### Open To
+
+* AI Engineer Opportunities
+* Machine Learning Engineer Opportunities
+* Software Engineer Opportunities
+* Open Source Contributions and Collaborations
 
 ---
 
