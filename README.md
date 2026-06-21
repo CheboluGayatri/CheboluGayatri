@@ -35,18 +35,18 @@
 ---
 
 # About Me
-Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects and internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
+Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
 ---
 ### Open To
 
-* AI Engineer Roles
-* Machine Learning Engineer Roles
-* Generative AI Engineer Roles
-* NLP Engineer Roles
-* Software Engineer Roles
-* Open Source Collaborations
-* Research Opportunities
+AI Engineer Roles
+Machine Learning Engineer Roles
+Generative AI Engineer Roles
+NLP Engineer Roles
+Software Engineer Roles
+Open Source Collaborations
+Research Opportunities
 
 ---
 
@@ -196,11 +196,11 @@ Worked on Generative AI applications, code explanation systems, OCR workflows, a
 
 ### Scope of Work
 
-* Built AI-powered applications
-* Developed code explanation tools
-* Implemented OCR solutions
-* Designed prompt engineering workflows
-* Created AI automation systems
+Built AI-powered applications
+Developed code explanation tools
+Implemented OCR solutions
+Designed prompt engineering workflows
+Created AI automation systems
 
 *Skills*
 
@@ -216,11 +216,11 @@ Worked on machine learning models, data analytics, and deployment workflows.
 
 ### Scope of Work
 
-* Data preprocessing
-* Feature engineering
-* Model development
-* Streamlit deployment
-* Predictive analytics
+Data preprocessing
+Feature engineering
+Model development
+Streamlit deployment
+Predictive analytics
 
 *Skills*
 
