@@ -32,11 +32,13 @@
 </a>
 
 </div>
+
 ---
 
 # About Me
-Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
+Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems.Seeking an AI/ML Engineer opportunity whereI can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
+---
 
 ## 🚀 Tech Stack
 
@@ -70,8 +72,9 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</div>
+</div> 
 
+---
 
 ## 💼 Internship Experience
 
@@ -97,7 +100,7 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 </td>
 
 <td width="50%">
-
+  
 ### 🧠 AI Intern
 **Infosys Springboard**  
 📅 Sept 2025 – Nov 2025  
@@ -115,7 +118,8 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 </td>
 </tr>
-</table>
+</table> 
+
 ---
 
 # Achievements
@@ -279,15 +283,38 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 </td>
 </tr>
-</table>
+</table> 
+
+--- 
+</td>
+</tr>
+</table>  
+
+---
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CheboluGayatri&theme=midnight-purple&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
 
 ## 📬 Connect With Me
 
 <div align="center">
-
-<a href="mailto:gayathrichebolu6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/gayatri-chebolu/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -297,11 +324,8 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://gayatri-portfolio-seven.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
+---
 
 <div align="center">
 
