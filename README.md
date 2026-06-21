@@ -123,7 +123,7 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 ---
 
-## 💼 Internships
+## 💼 Internship Completion Certificates
 
 <div align="center">
 
@@ -245,34 +245,30 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 </div>
 
 ---
+# Current Focus
 
-## Current Focus
+yaml
+learning:
+  - Agentic AI
+  - Advanced Generative AI
+  - RAG Architectures
+  - Multi-Agent Systems
 
-### Learning
+building:
+  - AI Assistants
+  - LLM Applications
+  - Intelligent Automation Systems
 
-* Agentic AI
-* Advanced Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Multi-Agent Systems
+exploring:
+  - MLOps
+  - Cloud AI Services
+  - AI Deployment Pipelines
 
-### Building
-
-* AI Assistants
-* LLM-Powered Applications
-* Intelligent Automation Solutions
-
-### Exploring
-
-* MLOps
-* Cloud-Based AI Services
-* AI Deployment and Production Pipelines
-
-### Open To
-
-* AI Engineer Opportunities
-* Machine Learning Engineer Opportunities
-* Software Engineer Opportunities
-* Open Source Contributions and Collaborations
+open_to:
+  - AI Engineer Roles
+  - ML Engineer Roles
+  - Software Engineer Roles
+  - Open Source Collaborations
 
 ---
 
