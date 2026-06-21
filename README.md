@@ -86,7 +86,7 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
 
 ### 🤖 AI/ML Intern 
  
- **3skill**                                                                                                                          Dec 2025 – Feb 2026  | Remote
+ **3skill**   Dec 2025 – Feb 2026  | Remote
 
 ✔ Processed and analyzed datasets using Python, Pandas & NumPy
 
@@ -104,7 +104,7 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
   
 ### 🧠 AI Intern 
 
-**Infosys Springboard**                                                                                                               Sept 2025 – Nov 2025 | Remote
+**Infosys Springboard**  Sept 2025 – Nov 2025 | Remote
 
 ✔ Developed LLM-powered applications
 
