@@ -35,8 +35,9 @@
 
 ---
 
-# About Me
-Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems.Seeking an AI/ML Engineer opportunity whereI can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
+## 👩‍💻 About Me
+
+Recent Computer Science & Artificial Intelligence graduate passionate about Artificial Intelligence, Machine Learning, and Generative AI. Experienced in building AI/ML applications through academic projects and internships, with a strong interest in developing intelligent systems that solve real-world problems. Seeking opportunities to contribute, learn, and grow as an AI/ML Engineer.
 
 ---
 
@@ -82,10 +83,9 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 <tr>
 <td width="50%">
 
-### 🤖 AI/ML Intern
-**3Skill**  
-📅 Dec 2025 – Feb 2026  
-🌐 Remote
+### 🤖 AI/ML Intern 3skill
+ 
+📅 Dec 2025 – Feb 2026   - Remote
 
 ✔ Processed and analyzed datasets using Python, Pandas & NumPy
 
@@ -101,10 +101,10 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 <td width="50%">
   
-### 🧠 AI Intern
-**Infosys Springboard**  
+### 🧠 AI Intern Infosys Springboard 
+
 📅 Sept 2025 – Nov 2025  
-🌐 Remote
+Infosys Springboard  - Remote
 
 ✔ Developed LLM-powered applications
 
@@ -141,7 +141,7 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 ---
 
-## 💼 Internship Completion Certificates
+## 💼 Internship Certificates
 
 <div align="center">
 
@@ -329,11 +329,12 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 <div align="center">
 
-### 💜 Let's Build Intelligent AI Solutions Together
+### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate | Aspiring AI/ML Engineer | Passionate about AI, Machine Learning & Generative AI
 
-*"Passionate about AI, Machine Learning, Generative AI, and building impactful software systems."*
+<div align="center">
+<br>
+<i>"Passionate about continuously learning, exploring, and applying AI, Machine Learning, and Generative AI to solve real-world problems and create meaningful impact."</i>
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
 
 </div>
-
----
-
