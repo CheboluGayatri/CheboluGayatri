@@ -42,8 +42,6 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
 
 </div> 
 
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
