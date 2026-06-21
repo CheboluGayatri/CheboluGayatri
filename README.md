@@ -279,12 +279,6 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
 - ML Engineer Roles
 - Software Engineer Roles
 - Open Source Collaborations
-
-</td>
-</tr>
-</table> 
-
---- 
 </td>
 </tr>
 </table>  
