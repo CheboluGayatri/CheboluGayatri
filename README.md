@@ -84,9 +84,9 @@ Recent Computer Science & Artificial Intelligence graduate passionate about Arti
 <tr>
 <td width="50%">
 
-### 🤖 AI/ML Intern 3skill
+### 🤖 AI/ML Intern 
  
-  3skill        - Dec 2025 – Feb 2026  | Remote
+ ***3skill**       - Dec 2025 – Feb 2026  | Remote
 
 ✔ Processed and analyzed datasets using Python, Pandas & NumPy
 
@@ -102,9 +102,9 @@ Recent Computer Science & Artificial Intelligence graduate passionate about Arti
 
 <td width="50%">
   
-### 🧠 AI Intern Infosys Springboard 
+### 🧠 AI Intern 
 
-Infosys Springboard  - Sept 2025 – Nov 2025 | Remote
+**Infosys Springboard**      - Sept 2025 – Nov 2025 | Remote
 
 ✔ Developed LLM-powered applications
 
@@ -328,7 +328,7 @@ Infosys Springboard  - Sept 2025 – Nov 2025 | Remote
 
 ---
 
-### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate | Aspiring AI/ML Engineer | Passionate about AI, Machine Learning & Generative AI
+### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate 
 
 <div align="center">
 <br>
