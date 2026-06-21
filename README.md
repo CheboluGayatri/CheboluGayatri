@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://gayatri-portfolio-seven.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
