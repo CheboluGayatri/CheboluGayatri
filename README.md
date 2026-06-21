@@ -9,7 +9,6 @@
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-CSE%20\(AI\)-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-7.78%2F10-A78BFA?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-0A66C2?style=for-the-badge)
 
 <br/>
