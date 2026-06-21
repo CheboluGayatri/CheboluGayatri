@@ -36,7 +36,16 @@
 ---
 
 ## 👩‍💻 About Me
-Recent Computer Science & Artificial Intelligence graduate passionate about Artificial Intelligence, Machine Learning, Generative AI, and intelligent software systems. Through academic projects and internships, I have gained hands-on experience in developing AI/ML solutions, working with machine learning models, and building AI-powered applications. Eager to begin my professional journey as an AI/ML Engineer, contribute to impactful projects, learn from experienced professionals, and continuously grow while creating innovative solutions that solve real-world problems.
+
+🎓 Recent B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence)
+
+🤖 Interested in Machine Learning, Deep Learning, Generative AI, and Data Science
+
+💻 Experienced in developing AI/ML projects through academic work, certifications, and internships
+
+🚀 Passionate about learning emerging technologies and building intelligent solutions for real-world challenges
+
+🌱 Currently seeking opportunities to start my career as an AI/ML Engineer
 
 ---
 
