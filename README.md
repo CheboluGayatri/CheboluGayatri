@@ -157,7 +157,7 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
 <td align="center">
 <a href="https://github.com/CheboluGayatri/CheboluGayatri/blob/main/certificates/Infosys-Ai-Internship.jpeg">
 <img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/certificates/Infosys-Ai-Internship.jpeg" width="150"/>
-<br><b>Generative AI Internship</b>
+<br><b>AI Internship</b>
 <br>Infosys Springboard
 </a>
 </td>
