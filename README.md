@@ -36,9 +36,9 @@
 ---
 <div align="center">
   
-##  👩‍💻 About Me
+## 👩‍💻 About Me
 
-Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligence) with a strong interest in Machine Learning,Deep Learning,Generative AI,and Data Science.Hands-on experience in developing AI/ML solutions through academic projects,internships,and certifications.Passionate about building intelligent systems, solving real-world problems,and continuously learning emerging technologies.Currently seeking opportunities to begin my career as an AI/ML Engineer and contribute to impactful projects.
+Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligence) with a strong interest in Machine Learning, Deep Learning, Generative AI, and Data Science. Hands-on experience in developing AI/ML solutions through academic projects, internships, and certifications. Passionate about building intelligent systems, solving real-world problems, and continuously learning emerging technologies. Currently seeking opportunities to begin my career as an AI/ML Engineer and contribute to impactful projects.
 
 </div> 
 ---
