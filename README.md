@@ -38,70 +38,84 @@
 Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
 
----
-# Tech Stack
+## 🚀 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+<div align="center">
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+### 💻 Programming Languages
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 
+## 💼 Internship Experience
 
-## Internship Experience
+<table>
+<tr>
+<td width="50%">
 
-### AI/ML Intern | 3Skill
+### 🤖 AI/ML Intern
+**3Skill**  
+📅 Dec 2025 – Feb 2026  
+🌐 Remote
 
-**Dec 2025 – Feb 2026 | Remote**
+✔ Processed and analyzed datasets using Python, Pandas & NumPy
 
-* Processed and analyzed structured datasets using Python, NumPy, and Pandas for predictive modeling.
-* Developed a Random Forest classification model and evaluated its performance using standard machine learning metrics.
-* Applied feature selection and model evaluation techniques to improve prediction accuracy.
-* Structured modular and maintainable code for scalable ML workflows.
-* Deployed the model using Streamlit for real-time predictions and testing.
+✔ Built Random Forest classification models
 
-**Skills:** Python, Machine Learning, Pandas, NumPy, Scikit-Learn, Streamlit, Data Analysis
+✔ Applied feature engineering and evaluation techniques
 
----
-### AI Intern | Infosys Springboard
+✔ Deployed ML applications using Streamlit
 
-**Sept 2025 – Nov 2025 | Remote**
+**Tech:** Python • Pandas • NumPy • Scikit-Learn • Streamlit
 
-* Built LLM-based applications using Python and Streamlit for automated code explanation and generation.
-* Designed multi-step prompt engineering workflows to improve output accuracy and consistency.
-* Integrated OCR pipelines with AI systems for automated document processing.
-* Worked on workflow automation and AI-driven problem-solving solutions.
+</td>
 
-**Skills:** Python, Generative AI, LLMs, Prompt Engineering, OCR, NLP, Streamlit
+<td width="50%">
 
+### 🧠 AI Intern
+**Infosys Springboard**  
+📅 Sept 2025 – Nov 2025  
+🌐 Remote
+
+✔ Developed LLM-powered applications
+
+✔ Built prompt engineering workflows
+
+✔ Integrated OCR with AI pipelines
+
+✔ Automated intelligent document processing
+
+**Tech:** Python • LLMs • NLP • OCR • Streamlit
+
+</td>
+</tr>
+</table>
 ---
 
 # Achievements
@@ -217,62 +231,57 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 
 ---
 
+## 🎯 Current Focus
 
-# GitHub Analytics
+<table>
+<tr>
+<td>
 
-<div align="center">
+### 📚 Learning
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=midnight-purple&hide_border=true"/>
+- Agentic AI
+- Advanced Generative AI
+- RAG Architectures
+- Multi-Agent Systems
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=midnight-purple&hide_border=true"/>
+</td>
 
-</div>
+<td>
 
-<div align="center">
+### 🏗 Building
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CheboluGayatri&theme=midnight-purple&hide_border=true"/>
+- AI Assistants
+- LLM Applications
+- Intelligent Automation Systems
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td>
 
-# Contribution Activity
+### 🔬 Exploring
 
-<div align="center">
+- MLOps
+- Cloud AI Services
+- AI Deployment Pipelines
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true"/>
+</td>
 
-</div>
+<td>
 
----
-# Current Focus
+### 🤝 Open To
 
-yaml
-learning:
-  - Agentic AI
-  - Advanced Generative AI
-  - RAG Architectures
-  - Multi-Agent Systems
+- AI Engineer Roles
+- ML Engineer Roles
+- Software Engineer Roles
+- Open Source Collaborations
 
-building:
-  - AI Assistants
-  - LLM Applications
-  - Intelligent Automation Systems
+</td>
+</tr>
+</table>
 
-exploring:
-  - MLOps
-  - Cloud AI Services
-  - AI Deployment Pipelines
-
-open_to:
-  - AI Engineer Roles
-  - ML Engineer Roles
-  - Software Engineer Roles
-  - Open Source Collaborations
-
----
-
-# Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -287,15 +296,20 @@ open_to:
 <a href="https://github.com/CheboluGayatri">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div> 
 
----
-### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate | Aspiring AI/ML Engineer | Passionate about AI, Machine Learning & Generative A
-<div align="center">
-<br>
-<i>"Passionate about continuously learning, exploring, and applying AI, Machine Learning, and Generative AI to solve real-world problems and create meaningful impact."</i>
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
+<a href="https://gayatri-portfolio-seven.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
+
+<div align="center">
+
+### 💜 Let's Build Intelligent AI Solutions Together
+
+*"Passionate about AI, Machine Learning, Generative AI, and building impactful software systems."*
+
+</div>
+
+---
 
