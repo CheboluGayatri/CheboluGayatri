@@ -37,7 +37,7 @@
 # About Me
 Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects and internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
-
+---
 ### Open To
 
 * AI Engineer Roles
@@ -190,7 +190,7 @@ Automated OCR and AI workflow for extracting and processing information from doc
 
 ## AI Intern | Infosys Springboard
 
-**Sep 2025 – Nov 2025 | Remote**
+*Sep 2025 – Nov 2025 | Remote*
 
 Worked on Generative AI applications, code explanation systems, OCR workflows, and prompt engineering projects.
 
@@ -202,15 +202,15 @@ Worked on Generative AI applications, code explanation systems, OCR workflows, a
 * Designed prompt engineering workflows
 * Created AI automation systems
 
-**Skills**
+*Skills*
 
-`Python` `LLMs` `NLP` `Prompt Engineering` `OCR` `Generative AI`
+Python LLMs NLP Prompt Engineering OCR Generative AI
 
 ---
 
 ## AI/ML Intern | 3Skill
 
-**Two-Month Internship**
+*Two-Month Internship*
 
 Worked on machine learning models, data analytics, and deployment workflows.
 
@@ -222,9 +222,28 @@ Worked on machine learning models, data analytics, and deployment workflows.
 * Streamlit deployment
 * Predictive analytics
 
-**Skills**
+*Skills*
 
-`Python` `Machine Learning` `Pandas` `NumPy` `Scikit-Learn`
+Python Machine Learning Pandas NumPy Scikit-Learn
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition           | Details                                           |
+| --------------------- | ------------------------------------------------- |
+| Microsoft TechSaksham | Applied Artificial Intelligence Program           |
+| IIIT Hyderabad        | Grade A in Foundations of Modern Machine Learning |
+| Infosys Springboard   | AI Explainer & Code Generator Internship          |
+| IBM SkillsBuild       | Career Management Essentials                      |
+| 3Skill                | AI & Machine Learning Internship                  |
+| AI Projects           | Developed Multiple AI-Powered Applications        |
+| LLM Engineering       | Built Generative AI Solutions                     |
+| Machine Learning      | End-to-End ML Development                         |
+
+</div>
 
 ---
 
