@@ -72,40 +72,9 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p># Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
 ## Internship Experience
 
@@ -122,7 +91,6 @@ Recent Computer Science & Artificial Intelligence graduate passionate about AI, 
 **Skills:** Python, Machine Learning, Pandas, NumPy, Scikit-Learn, Streamlit, Data Analysis
 
 ---
-
 ### AI Intern | Infosys Springboard
 
 **Sept 2025 – Nov 2025 | Remote**
