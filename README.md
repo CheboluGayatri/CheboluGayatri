@@ -37,7 +37,8 @@
 
 ## 👩‍💻 About Me
 
-Recent Computer Science & Artificial Intelligence graduate passionate about Artificial Intelligence, Machine Learning, and Generative AI. Experienced in building AI/ML applications through academic projects and internships, with a strong interest in developing intelligent systems that solve real-world problems. Seeking opportunities to contribute, learn, and grow as an AI/ML Engineer.
+## 👩‍💻 About Me
+Recent Computer Science & Artificial Intelligence graduate passionate about Artificial Intelligence, Machine Learning, Generative AI, and intelligent software systems. Through academic projects and internships, I have gained hands-on experience in developing AI/ML solutions, working with machine learning models, and building AI-powered applications. Eager to begin my professional journey as an AI/ML Engineer, contribute to impactful projects, learn from experienced professionals, and continuously grow while creating innovative solutions that solve real-world problems.
 
 ---
 
@@ -85,7 +86,7 @@ Recent Computer Science & Artificial Intelligence graduate passionate about Arti
 
 ### 🤖 AI/ML Intern 3skill
  
-📅 Dec 2025 – Feb 2026   - Remote
+  3skill        - Dec 2025 – Feb 2026  | Remote
 
 ✔ Processed and analyzed datasets using Python, Pandas & NumPy
 
@@ -103,8 +104,7 @@ Recent Computer Science & Artificial Intelligence graduate passionate about Arti
   
 ### 🧠 AI Intern Infosys Springboard 
 
-📅 Sept 2025 – Nov 2025  
-Infosys Springboard  - Remote
+Infosys Springboard  - Sept 2025 – Nov 2025 | Remote
 
 ✔ Developed LLM-powered applications
 
@@ -325,9 +325,8 @@ Infosys Springboard  - Remote
 </a>
 
 </div>
----
 
-<div align="center">
+---
 
 ### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate | Aspiring AI/ML Engineer | Passionate about AI, Machine Learning & Generative AI
 
