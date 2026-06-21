@@ -14,7 +14,6 @@
 
 <br/>
 
-```html
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gayatri-chebolu/">
@@ -34,7 +33,6 @@
 </a>
 
 </div>
-```
 ---
 
 # About Me
