@@ -36,11 +36,7 @@
 
 # About Me
 
-AI Engineer passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI, and Large Language Models.
-
-I recently completed my B.Tech in Computer Science & Engineering (Artificial Intelligence) and have gained hands-on experience through AI-focused internships, real-world machine learning projects, and LLM-powered applications.
-
-My focus is on building scalable AI solutions that solve practical business challenges through intelligent automation, predictive analytics, conversational AI, and software engineering.
+Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects and internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
 ### Open To
 
@@ -421,10 +417,10 @@ open_to:
 </div> 
 
 ---
-### 💜 🎓 Recent Graduate | Passionate about AI, Machine Learning, and Generative AI
+### 💜 🎓 Recent Computer Science & Artificial Intelligence Graduate | Aspiring AI/ML Engineer | Passionate about AI, Machine Learning & Generative A
 <div align="center">
 <br>
-<i>"Passionate about learning, building, and applying AI, Machine Learning, and Generative AI to solve real-world problems."</i>
+<i>"Passionate about continuously learning, exploring, and applying AI, Machine Learning, and Generative AI to solve real-world problems and create meaningful impact."</i>
 <br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:8B5CF6,100:A78BFA"/>
 
