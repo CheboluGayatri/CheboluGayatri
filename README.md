@@ -37,36 +37,23 @@
 # About Me
 Recent Computer Science & Artificial Intelligence graduate passionate about AI, Machine Learning, and intelligent systems. Through academic projects &internships, I gained hands-on experience building AI/ML solutions and applying technology to real-world problems. Seeking an AI/ML Engineer opportunity where I can learn from experienced professionals, contribute to impactful projects, and grow while building innovative AI-driven solutions.
 
----
-
-### Open To
-
-AI Engineer Roles
-Machine Learning Engineer Roles
-Generative AI Engineer Roles
-NLP Engineer Roles
-Software Engineer Roles
-Open Source Collaborations
-Research Opportunities
 
 ---
 
 # Tech Stack
 
-## Languages
-
-<p align="center">
+ ## Languages            
+ <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-## Frontend
 
+## Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
 ## Backend & Databases
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,mysql"/>
 </p>
@@ -78,7 +65,6 @@ Research Opportunities
 </p>
 
 ## AI / ML Ecosystem
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
@@ -90,23 +76,6 @@ Research Opportunities
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain               | Proficiency  | Details                                                           |
-| -------------------- | ------------ | ----------------------------------------------------------------- |
-| Machine Learning     | Advanced     | Regression, Classification, Feature Engineering, Model Evaluation |
-| Deep Learning        | Intermediate | Neural Networks, Fine-Tuning, Model Optimization                  |
-| NLP                  | Advanced     | Text Processing, Conversational AI, Transformers                  |
-| Generative AI        | Advanced     | Prompt Engineering, LLM Applications, AI Assistants               |
-| LLM Engineering      | Advanced     | Hugging Face, T5, Fine-Tuning, Inference                          |
-| OCR Systems          | Advanced     | Document Processing Automation                                    |
-| Data Science         | Advanced     | EDA, Data Cleaning, Visualization                                 |
-| Predictive Analytics | Advanced     | Business Forecasting & Insights                                   |
-| Deployment           | Intermediate | Streamlit Deployment                                              |
-| Software Engineering | Intermediate | Product-Oriented Development                                      |
 
 ---
 
@@ -228,26 +197,6 @@ Predictive analytics
 Python Machine Learning Pandas NumPy Scikit-Learn
 
 ---
-
-# Achievements
-
-<div align="center">
-
-| Recognition           | Details                                           |
-| --------------------- | ------------------------------------------------- |
-| Microsoft TechSaksham | Applied Artificial Intelligence Program           |
-| IIIT Hyderabad        | Grade A in Foundations of Modern Machine Learning |
-| Infosys Springboard   | AI Explainer & Code Generator Internship          |
-| IBM SkillsBuild       | Career Management Essentials                      |
-| 3Skill                | AI & Machine Learning Internship                  |
-| AI Projects           | Developed Multiple AI-Powered Applications        |
-| LLM Engineering       | Built Generative AI Solutions                     |
-| Machine Learning      | End-to-End ML Development                         |
-
-</div>
-
----
-
 # Achievements
 
 <div align="center">
