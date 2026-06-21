@@ -124,27 +124,18 @@ Recent Computer Science & Artificial Intelligence graduate passionate about Arti
 
 <div align="center">
 
-# Achievements
-
-## Internship Completions
-
-- AI Explainer & Code Generator Internship – Infosys Springboard
-- AI & Machine Learning Internship – 3Skill
-
-## Certifications
-
-- Applied Artificial Intelligence Program – Microsoft TechSaksham
-- Foundations of Modern Machine Learning (Grade A) – IIIT Hyderabad
-- Career Management Essentials – IBM SkillsBuild
-
-## Technical Achievements
-
-- Developed Multiple AI-Powered Applications
-- Built Generative AI Solutions
-- End-to-End Machine Learning Development                       |
+| Category | Details |
+|----------|---------|
+| Internship Completion | AI Explainer & Code Generator Internship – Infosys Springboard |
+| Internship Completion | AI & Machine Learning Internship – 3Skill |
+| Certification | Applied Artificial Intelligence Program – Microsoft TechSaksham |
+| Certification | Foundations of Modern Machine Learning (Grade A) – IIIT Hyderabad |
+| Certification | Career Management Essentials – IBM SkillsBuild |
+| Achievement | Developed Multiple AI-Powered Applications |
+| Achievement | Built Generative AI Solutions |
+| Achievement | End-to-End Machine Learning Development |
 
 </div>
-
 ---
 
 ## 💼 Internship Certificates
