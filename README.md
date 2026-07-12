@@ -297,7 +297,7 @@ Recent B.Tech graduate in Computer Science & Engineering (Artificial Intelligenc
 ## 📊 Contribution Activity
 
 <p align="center">
-<img src="https://gayatri-portfolio-flax.vercel.app//graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://gayatri-portfolio-flax.vercel.app/graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
