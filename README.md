@@ -3,46 +3,50 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img src="./assets/dark.svg" width="100%" alt="Gayatri Chebolu Animated Banner">
+  <img src="./assets/dark.svg" width="100%" alt="Gayatri Chebolu Animated SVG Banner">
 </picture>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;LLM+Application+Developer;Agentic+AI+Enthusiast;AI+Researcher"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&color=7C3AED&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;LLM+Application+Developer;Agentic+AI+Enthusiast;AI+Researcher" />
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Gayatri Chebolu
+# Hi, I'm Gayatri Chebolu 👋
 
 <table>
 <tr>
+
 <td width="65%">
 
-### About Me
+### AI Engineer | ML Engineer | Generative AI Developer
 
-- Recent B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence).
-- Passionate about Artificial Intelligence, Machine Learning and Generative AI.
-- Building intelligent AI systems powered by LLMs and Agentic AI.
-- Exploring Multi-Agent Systems, RAG Architectures and AI Deployment.
-- Love solving real-world problems using AI and Machine Learning.
+- B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence)
+
+- Passionate about building intelligent AI systems powered by Machine Learning and Large Language Models.
+
+- Exploring Agentic AI, Multi-Agent Systems, RAG Architectures and AI Deployment.
+
+- Currently seeking opportunities in Artificial Intelligence and Machine Learning.
 
 ### Open To Opportunities
 
 - AI Engineer
 - Machine Learning Engineer
 - Generative AI Engineer
-- Software Engineer
 - AI Research Intern
+- Software Engineer
 
 </td>
 
 <td width="35%">
 
-<img src="./projectimages/profile.png" width="280"/>
+<img src="./projectimages/profile.png" width="280">
 
 </td>
+
 </tr>
 </table>
 
@@ -68,14 +72,14 @@
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 </p>
 
-### Machine Learning & AI
+### Machine Learning
 
 - Scikit Learn
 - TensorFlow
 - PyTorch
-- Hugging Face
 - Pandas
 - NumPy
+- Hugging Face
 
 ### Generative AI
 
@@ -101,25 +105,21 @@
 
 # Internship Experience
 
-### AI & Machine Learning Intern | 3Skill
+## AI & Machine Learning Intern | 3Skill
 
-**Duration:** Dec 2025 – Feb 2026
-
-- Built Machine Learning classification models.
-- Performed feature engineering and data preprocessing.
-- Deployed applications using Streamlit.
-- Worked with Scikit Learn and Python.
+- Built ML classification models.
+- Data preprocessing and feature engineering.
+- Model evaluation and deployment.
+- Streamlit-based applications.
 
 ---
 
-### AI Intern | Infosys Springboard
-
-**Duration:** Sept 2025 – Nov 2025
+## AI Intern | Infosys Springboard
 
 - Built AI applications.
-- Worked on Prompt Engineering.
-- Developed OCR pipelines.
-- Intelligent document processing using AI.
+- Prompt Engineering.
+- OCR pipelines.
+- Intelligent document processing.
 
 ---
 
@@ -130,23 +130,22 @@
 ## AI Health Symptom Checker
 
 <p align="center">
-<img src="./projectimages/AI_health_symptom_checker.png" width="900"/>
+<img src="./projectimages/AI_health_symptom_checker.png" width="900">
 </p>
 
-### Features
+### Highlights
 
-- AI Powered Health Assistant
-- Disease Prediction System
-- User Friendly Interface
-- Intelligent Symptom Analysis
-- AI Based Recommendations
+- Intelligent symptom analysis.
+- AI-powered health recommendations.
+- User-friendly web application.
+- Real-time prediction system.
 
-### Technologies Used
+### Tech Stack
 
 ```
 Python
 Flask
-AI Models
+Machine Learning
 HTML
 CSS
 JavaScript
@@ -158,17 +157,16 @@ Render
 ## House Price Prediction
 
 <p align="center">
-<img src="./projectimages/Houseprice.png" width="900"/>
+<img src="./projectimages/Houseprice.png" width="900">
 </p>
 
-### Features
+### Highlights
 
-- House Price Prediction
-- Data Preprocessing
-- Machine Learning Regression
-- Model Evaluation
+- House price prediction using Machine Learning.
+- Data preprocessing and regression models.
+- Model evaluation techniques.
 
-### Technologies Used
+### Tech Stack
 
 ```
 Python
@@ -182,17 +180,16 @@ Scikit Learn
 ## Iris Flower Classification
 
 <p align="center">
-<img src="./projectimages/Iris.png" width="900"/>
+<img src="./projectimages/Iris.png" width="900">
 </p>
 
-### Features
+### Highlights
 
-- ML Classification Model
-- Data Visualization
-- Exploratory Data Analysis
-- Prediction System
+- Classification model.
+- Exploratory Data Analysis.
+- Prediction system.
 
-### Technologies Used
+### Tech Stack
 
 ```
 Python
@@ -206,22 +203,21 @@ NumPy
 ## Wine Quality Prediction
 
 <p align="center">
-<img src="./projectimages/Wine_quality.png" width="900"/>
+<img src="./projectimages/Wine_quality.png" width="900">
 </p>
 
-### Features
+### Highlights
 
-- Wine Quality Classification
-- Machine Learning Prediction
-- Model Evaluation
-- Data Analytics
+- Machine Learning classification model.
+- Quality prediction system.
+- Data analytics and visualization.
 
-### Technologies Used
+### Tech Stack
 
 ```
 Python
-Scikit Learn
 Machine Learning
+Scikit Learn
 ```
 
 ---
@@ -267,9 +263,9 @@ Machine Learning
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -279,7 +275,7 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CheboluGayatri&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CheboluGayatri&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -289,7 +285,7 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=tokyo-night" />
 
 </div>
 
@@ -299,17 +295,17 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-# Visitor Count
+# Visitor Counter
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CheboluGayatri&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=CheboluGayatri&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -319,25 +315,32 @@ Machine Learning
 
 <div align="center">
 
-| Platform | Link |
-|---------|---------|
-| GitHub | https://github.com/CheboluGayatri |
-| LinkedIn | https://www.linkedin.com/in/gayatri-chebolu/ |
-| Portfolio | https://gayatri-portfolio-flax.vercel.app/ |
-| Email | gayathrichebolu6@gmail.com |
+<a href="https://github.com/CheboluGayatri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/gayatri-chebolu/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://gayatri-portfolio-flax.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="mailto:gayathrichebolu6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
 </div>
 
 ---
 
-# Let's Build AI Together
-
 <div align="center">
 
-### Building Intelligent AI Systems for the Future
+## Building Intelligent AI Systems for the Future
 
-AI • Machine Learning • Generative AI • Agentic AI • Open Source
+### Artificial Intelligence • Machine Learning • Generative AI • Agentic AI • Open Source
 
-⭐ Thank you for visiting my GitHub Profile.
+⭐ Thanks for visiting my GitHub profile.
 
 </div>
