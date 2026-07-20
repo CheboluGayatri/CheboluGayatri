@@ -1,12 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0524,15:2E1065,35:4C1D95,55:6D28D9,75:8B5CF6,100:C4B5FD&text=Hi%20There,%20I'm%20Gayatri%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Machine%20Learning%20Engineer%20|%20Generative%20AI%20Developer&descAlignY=55&descSize=18"/>
+<!-- LinkedIn-style cover banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0F0524,20:2E1065,45:4C1D95,70:6D28D9,100:8B5CF6&section=header"/>
+
+<!-- Profile avatar overlapping the cover, LinkedIn card style -->
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/profile.png" width="108" height="108" style="border-radius:50%;border:4px solid #0D1117;box-shadow:0 0 0 3px #A78BFA;object-fit:cover;margin-top:-70px;"/>
+
+<h2 align="center">Gayatri Chebolu</h2>
+<p align="center"><b>AI Engineer</b> &nbsp;•&nbsp; <b>Machine Learning Engineer</b> &nbsp;•&nbsp; <b>Generative AI Developer</b></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8B5CF6,100:0F0524&section=footer"/>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/profile.png" width="250" height="250" style="border-radius:50%;border:4px solid #A78BFA;object-fit:cover;"/>
-
-<br/><br/>
 
 <a href="https://gayatri-portfolio-flax.vercel.app/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Generative+AI+%26+LLM+Developer;Prompt+Engineering+%7C+RAG+%7C+NLP;Building+Intelligent+Software+Systems;Turning+Data+into+Decisions+%F0%9F%9A%80"/>
@@ -307,12 +312,22 @@ Recent B.Tech graduate in **Computer Science & Engineering (Artificial Intellige
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="41%"/>
+</div>
+
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=CheboluGayatri&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
