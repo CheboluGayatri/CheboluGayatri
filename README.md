@@ -1,128 +1,80 @@
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-<img src="./assets/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" width="100%" alt="Gayatri Chebolu">
 </picture>
-
-</div>
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;LLM+Application+Developer;Agentic+AI+Enthusiast;Open+To+AI+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;LLM+Application+Developer;Agentic+AI+Enthusiast;Open+to+AI+Opportunities"/>
 
 </div>
 
 ---
 
-# 👋 About Me
-
-<table>
-<tr>
-
-<td width="70%">
+## 👋 About Me
 
 ```python
 class GayatriChebolu:
 
-    def __init__(self):
+    name = "Gayatri Chebolu"
 
-        self.name = "Gayatri Chebolu"
+    role = [
+        "AI Engineer",
+        "Machine Learning Engineer",
+        "Generative AI Developer"
+    ]
 
-        self.role = [
+    location = "Andhra Pradesh, India"
 
-            "AI Engineer",
-            "Machine Learning Engineer",
-            "Generative AI Developer"
+    education = "B.Tech in Computer Science & Engineering (AI)"
 
-        ]
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Large Language Models",
+        "NLP",
+        "Agentic AI",
+        "Multi-Agent Systems"
+    ]
 
-        self.location = "Andhra Pradesh, India"
+    current_focus = [
+        "Agentic AI",
+        "RAG Architectures",
+        "Advanced Generative AI",
+        "MLOps",
+        "AI Deployment"
+    ]
 
-        self.education = (
-
-            "B.Tech CSE (Artificial Intelligence)"
-
-        )
-
-        self.interests = [
-
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Large Language Models",
-            "Natural Language Processing",
-            "Agentic AI",
-            "Multi-Agent Systems"
-
-        ]
-
-        self.current_focus = [
-
-            "Advanced Generative AI",
-            "Agentic AI",
-            "RAG Architectures",
-            "Multi-Agent Systems",
-            "AI Deployment",
-            "MLOps"
-
-        ]
-
-
-    def say_hi(self):
-
-        return (
-
-            "Building Intelligent AI Systems."
-
-        )
-
+    status = "Building Intelligent AI Systems 🚀"
 ```
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="./profile.png" width="250">
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Programming Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-</p>
+- Python
+- SQL
+- MySQL
 
 ### Frontend
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-</p>
+- HTML
+- CSS
+- JavaScript
 
 ### Backend
 
-<p align="left">
+- Flask
+- FastAPI
+- Streamlit
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-
-</p>
-
-### Machine Learning
+### Machine Learning & AI
 
 - Scikit Learn
 - TensorFlow
@@ -137,127 +89,115 @@ class GayatriChebolu:
 - LangGraph
 - Transformers
 - Sentence Transformers
-- Prompt Engineering
 - RAG
+- Prompt Engineering
 - Agentic AI
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Render
+- Vercel
 
 ---
 
-# 💼 Internship Experience
+## 💼 Internship Experience
 
 ### AI & Machine Learning Intern | 3Skill
 
-- Machine Learning Models
-- Feature Engineering
-- Data Preprocessing
-- Model Evaluation
-- Streamlit Deployment
-
-<br>
+- Built ML classification models.
+- Data preprocessing and feature engineering.
+- Model evaluation and Streamlit deployment.
 
 ### AI Intern | Infosys Springboard
 
-- Prompt Engineering
-- OCR Pipelines
-- Intelligent Document Processing
-- AI Application Development
+- Built AI applications.
+- Worked on Prompt Engineering.
+- Developed OCR pipelines.
+- Intelligent document processing solutions.
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## AI Health Symptom Checker
+### AI Health Symptom Checker
 
-<img src="./projectimages/Ai_health_symptom_checker.png" width="100%">
+<img src="./projectimages/Ai_health_symptom_checker.png" width="100%" />
 
-#### Features
-
-- AI-Powered Health Assistant
-- NLP-based Symptom Analysis
-- Intelligent Recommendations
-- Streamlit Deployment
+- AI-powered health assistant.
+- Symptom analysis and recommendations.
+- User-friendly web interface.
 
 ---
 
-## House Price Prediction
+### House Price Prediction
 
-<img src="./projectimages/Houseprice.png" width="100%">
+<img src="./projectimages/Houseprice.png" width="100%" />
 
-#### Features
-
-- Machine Learning Regression Model
-- Real Estate Price Prediction
-- Data Visualization
+- Machine Learning regression model.
+- House price prediction system.
 
 ---
 
-## Iris Flower Classification
+### Iris Flower Classification
 
-<img src="./projectimages/Iris.png" width="100%">
+<img src="./projectimages/Iris.png" width="100%" />
 
-#### Features
-
-- Machine Learning Classification
-- Exploratory Data Analysis
-- Model Evaluation
+- ML classification model.
+- Exploratory Data Analysis and prediction.
 
 ---
 
-## Wine Quality Prediction
+### Wine Quality Prediction
 
-<img src="./projectimages/Wine_quality.png" width="100%">
+<img src="./projectimages/Wine_quality.png" width="100%" />
 
-#### Features
-
-- Supervised Machine Learning
-- Data Analysis
-- Prediction Pipeline
+- Quality prediction using Machine Learning.
+- Model evaluation and visualization.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- Foundations of Modern Machine Learning
-- Applied Artificial Intelligence
-- IBM SkillsBuild AI
+- Foundations of Modern Machine Learning (IIIT Hyderabad)
+- Applied Artificial Intelligence (Microsoft TechSaksham)
+- IBM SkillsBuild AI Certificate
 - Generative AI Certification
 - Career Management Essentials
-- AI Internship Certifications
-- Machine Learning Internship Certifications
+- AI Internship Certificates
+- Machine Learning Internship Certificates
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```text
-Currently Building
+Learning
 
-> Intelligent AI Systems
-> Generative AI Applications
-> Agentic AI Projects
-> RAG Architectures
+> Agentic AI
 > Multi-Agent Systems
-
-
-Currently Learning
-
 > Advanced Generative AI
-> AI Deployment Pipelines
 > MLOps
-> Cloud AI Services
+> RAG Architectures
+
+Building
+
+> AI Assistants
+> LLM Applications
+> Intelligent Automation Systems
+
+Exploring
+
 > Open Source Contributions
-
-
-Status
-
-████████████████████ 100%
-
-ONLINE
+> Cloud AI Services
+> AI Deployment Pipelines
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -271,7 +211,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayat
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -281,7 +221,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayat
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -291,71 +231,43 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayat
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 💡 Open To Opportunities
+## 💡 Open To Opportunities
 
-```text
-Currently Open For:
+Currently looking for:
 
-• AI Engineer
-
-• Machine Learning Engineer
-
-• Generative AI Engineer
-
-• AI Research Intern
-
-• Software Engineer
-
-• Remote AI/ML Opportunities
-```
+- AI Engineer
+- Machine Learning Engineer
+- Generative AI Engineer
+- Software Engineer
+- AI Research Intern
+- AI/ML Internship Opportunities
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/CheboluGayatri">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/gayatri-chebolu/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:gayathrichebolu6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Portfolio
-
-https://gayatri-portfolio-flax.vercel.app/
-
-</div>
+- GitHub: https://github.com/CheboluGayatri
+- LinkedIn: https://www.linkedin.com/in/gayatri-chebolu/
+- Portfolio: https://gayatri-portfolio-flax.vercel.app/
+- Email: gayathrichebolu6@gmail.com
 
 ---
 
-# 👀 Profile Visitors
+## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CheboluGayatri&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=CheboluGayatri&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -363,11 +275,9 @@ https://gayatri-portfolio-flax.vercel.app/
 
 <div align="center">
 
-## Thanks for Visiting!
+### Building Intelligent AI Systems with Generative AI
 
-### Building Intelligent AI Systems with Generative AI.
-
-⭐ Don't forget to check out my projects and connect with me.
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
 
