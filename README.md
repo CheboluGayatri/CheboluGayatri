@@ -307,12 +307,6 @@ Recent B.Tech graduate in **Computer Science & Engineering (Artificial Intellige
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CheboluGayatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheboluGayatri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="41%"/>
-</div>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=CheboluGayatri&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 </div>
