@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/profile.png" width="150" height="150" style="border-radius:50%;border:4px solid #A78BFA;object-fit:cover;"/>
+<img src="https://raw.githubusercontent.com/CheboluGayatri/CheboluGayatri/main/profile.png" width="250" height="250" style="border-radius:50%;border:4px solid #A78BFA;object-fit:cover;"/>
 
 <br/><br/>
 
@@ -319,10 +319,6 @@ Recent B.Tech graduate in **Computer Science & Engineering (Artificial Intellige
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheboluGayatri&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CheboluGayatri&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
